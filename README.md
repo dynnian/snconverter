@@ -64,61 +64,61 @@ appropriate options.
 
 1. Convert a decimal number to binary, hexadecimal, and octal:
 
-```bash
-./snconverter -d 255
-```
+    ```bash
+    ./snconverter -d 255
+    ```
 
-Output:
-
-```
-Binary: 11111111
-Hexadecimal: FF
-Octal: 377
-```
+    Output:
+    
+    ```
+    Binary: 11111111
+    Hexadecimal: FF
+    Octal: 377
+    ```
 
 2. Convert a binary number to decimal, hexadecimal, and octal:
 
-```bash
-./snconverter -b 11010101
-```
-
-Output:
-
-```
-Decimal: 213
-Hexadecimal: D5
-Octal: 325
-```
+    ```bash
+    ./snconverter -b 11010101
+    ```
+    
+    Output:
+    
+    ```
+    Decimal: 213
+    Hexadecimal: D5
+    Octal: 325
+    ```
 
 3. Convert a hexadecimal number to decimal, binary, and octal:
 
-```bash
-./snconverter -x 1A3F
-```
-
-Output:
-
-```
-Decimal: 6719
-Binary: 1101000111111
-Octal: 15177
-```
+    ```bash
+    ./snconverter -x 1A3F
+    ```
+    
+    Output:
+    
+    ```
+    Decimal: 6719
+    Binary: 1101000111111
+    Octal: 15177
+    ```
 
 4. Display help message:
 
-```bash
-./snconverter -h
-```
-
-This will display detailed usage instructions and available options.
+    ```bash
+    ./snconverter -h
+    ```
+    
+    This will display detailed usage instructions and available options.
 
 5. Display version:
 
-```bash
-./snconverter -v
-```
-
-This will show the current version of the program.
+    ```bash
+    ./snconverter -v
+    ```
+    
+    This will show the current version of the program.
 
 ## Notes
 
